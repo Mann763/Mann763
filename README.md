@@ -35,6 +35,14 @@ I'm Mann Devani, a passionate game developer and an Author based in INDIA 🇮�
 
 ## Connect with Me
 
+<p align="left">
+<a href="https://twitter.com/MannDevani" target="blank"><img align="center" src="https://github.com/Mann763/Mann763/assets/39549934/6b0320fb-abb4-4fd1-bc1f-4cf2b40cc76f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mann-devani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/mann_devani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@manndevani3664" target="blank"><img align="center" src="https://github.com/Mann763/Mann763/assets/39549934/0236daa0-3396-4ed2-bf72-8da353e67aad" alt="ra![youtube-512]()
+v0kins" height="30" width="40" /></a>
+</p>
+
 - 🐦 [Twitter](https://twitter.com/MannDevani)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mann-devani/)
 - 🔗 [Linktree](https://linktr.ee/mann_devani)
@@ -43,5 +51,6 @@ I'm Mann Devani, a passionate game developer and an Author based in INDIA 🇮�
 ## Let's Collaborate!
 
 I'm always open to collaboration and interesting projects. Feel free to reach out for any inquiries or just to say hi! 🚀
+![youtube-512]()
 
 🎮 Happy Coding! 🚀
