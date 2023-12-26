@@ -33,17 +33,6 @@ I'm Mann Devani, a passionate game developer and an Author based in INDIA 🇮�
   - ![Hindi](https://img.shields.io/badge/Hindi-A81B5E?style=for-the-badge&logo=google-translate&logoColor=white)
   - ![Gujarati](https://img.shields.io/badge/Gujarati-008000?style=for-the-badge&logo=google-translate&logoColor=white)
 
-## Connect with Me
-
-<p align="right">
-
-</p>
-
-- 🐦 [Twitter](https://twitter.com/MannDevani)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mann-devani/)
-- 🔗 [Linktree](https://linktr.ee/mann_devani)
-- 🌐 [Personal Website/Blog](https://manndevani1.wixsite.com/oasis)
-
 ## Let's Collaborate!
 
 I'm always open to collaboration and interesting projects. Feel free to reach out for any inquiries or just to say hi! 🚀
